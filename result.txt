@@ -1,0 +1,1 @@
+value: 10 [5-15] -> update_value£º5 [0-10]  problem_bit: 11  
